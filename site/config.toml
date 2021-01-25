@@ -1,9 +1,29 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+baseurl = "https://www.pasardigital.co.id/"
+defaultContentLanguage= "en"
+title = "PasarDigital"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+enableRobotsTXT = true
+googleAnalytics = "UA-111111-1"
+disableHugoGeneratorInject = true
+removePathAccents= true
+paginate = 30
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+
+[minify]
+    [minify.tdewolff.html]
+      keepQuotes = true
+      keepWhitespace = true
+
+
+[params]
+   twitter = "@twitter"

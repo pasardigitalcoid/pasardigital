@@ -1,55 +1,42 @@
 ---
-title: Our Coffee
+title: "Our Futures"
+description: "Setiap rencana keuangan yang hebat dimulai dengan anggaran yang baik. Jika Anda mencoba melunasi tagihan atau menabung untuk impian liburan atau hari tua - PasarDigital"
+author: "Naya A"
+date: "2021-01-23T13:00:00+09:00"
+thumbnail: "/img/default.png"
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Rencana anggaran yang solid.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Setiap rencana keuangan yang hebat dimulai dengan anggaran yang baik. Jika Anda mencoba melunasi tagihan atau menabung untuk impian liburan ke hawai atau menyiapkan untuk hari tua?, anggaran adalah langkah pertama Anda untuk mewujudkan tujuan finansial Anda. Ikuti langkah-langkah berikut untuk menyiapkan anggaran yang realistis.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Mulailah dengan berapa banyak uang yang Anda hasilkan setelah pajak setiap bulan. Jika kompensasi Anda bervariasi, menggunakan rata-rata tidak masalah, tetapi semakin akurat semakin baik. Jangan lupakan sumber pendapatan lain seperti tunjangan, seperti tunjangan anak, bunga, dividen dan pendapatan sewa. Sekarang setelah Anda mengetahui penghasilan Anda, Anda dapat meninjau di mana Anda sekarang.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Jika pengeluaran Anda sudah lebih besar dari tabungan Anda, Anda memiliki 2 pilihan. Dapatkan lebih banyak uang, atau belanjakan lebih sedikit. Umumnya lebih mudah untuk mengurangi pengeluaran dibandingkan menghasilkan lebih banyak uang. Lihat kembali anggaran Anda dan tentukan apa yang dapat dikurangi. Makan lebih sedikit? Tanpa pakaian baru? Jika Anda menabung lebih dari yang di belanjakan, itu bagus.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Anda punya tabungan! Selamat. Sekarang, apa hal terbaik yang bisa dilakukan dengannya? Jika Anda memiliki hutang berbunga tinggi, mungkin yang terbaik adalah melunasinya. Anda bahkan dapat mengkonsolidasikan hutang itu dengan tingkat bunga yang lebih rendah untuk menabung lebih banyak dan melunasinya lebih cepat.
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Bertujuan untuk mempertahankan anggaran Anda dengan meninjaunya setiap minggu atau 2. Ini akan membantu Anda dengan cepat memahami bagaimana melacak pengeluaran Anda, apa yang perlu diubah, dan jika Anda mempertahankan tujuan keuangan Anda. Good luck and remember, Peace by Happy Money, that can help you on your financial journey. Get started today!
+  heading: Rencana anggaran yang solid.
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Setiap rencana keuangan yang hebat dimulai dengan anggaran yang baik. Jika Anda mencoba melunasi tagihan atau menabung untuk impian liburan ke hawai?, anggaran adalah langkah pertama Anda untuk mewujudkan tujuan finansial Anda. Ikuti langkah-langkah berikut untuk menyiapkan anggaran yang realistis....
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: We do not intend to become one
+  description: |-
+   Kami sangat senang tentang…
+
+    - 1.Menyelesaikan hal-hal yang lebih ambisius.
+    - 2.Mengambil pandangan jangka panjang.
+    - 3.Memberdayakan pengusaha dan perusahaan hebat untuk berkembang.
+    - 4.Berinvestasi pada skala peluang dan sumber daya yang kami lihat.
+    - 5.Meningkatkan transparansi dan pengawasan atas apa yang kami lakukan.
+    - 6.Membuat PasarDigital Co.Id menjadi lebih baik melalui fokus yang lebih besar.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -60,43 +47,41 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: John Paulson
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Stock market goes up or down, and you can't adjust your portfolio based on the whims of the market, so you have to have a strategy in a position and stay true to that strategy and not pay attention to noise that could surround any particular investment.
+  - author: Michelle Obama
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      You have to stay in school. You have to. You have to go to college. You have to get your degree. Because that's the one thing people can't take away from you is your education. And it is worth the investment.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Simple ways to save money
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Sometimes the hardest thing about saving money is just getting started. This step-by-step guide for how to save money can help you develop a simple and realistic strategy, so you can save for all your short- and long-term savings goals.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Jangka waktu 3 tahun, dengan pertumbuhan 20% per tahun.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - IDR 10.000.000 *Awal
+        - IDR 1.000.000 *Regular
+        - IDR 46.000.000 *Pokok
+        - IDR 66.621.895 *Hasil
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      price: '1jt'
+    - description: 'Jangka waktu 3 tahun, dengan pertumbuhan 20% per tahun.'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - IDR 10.000.000 *Awal
+        - IDR 3.000.000 *Regular
+        - IDR 118.000.000,00 *Pokok
+        - IDR 164.197.547,04 *Hasil
+      plan: Middle
+      price: '3jt'
+    - description: Want a few tiny batches from different varieties? Try now
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - IDR ?
+        - IDR ?
+        - IDR ?
+        - IDR ?
       plan: Custom
       price: '?'
 ---
-
 

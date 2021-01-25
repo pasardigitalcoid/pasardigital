@@ -1,17 +1,34 @@
 <!doctype html>
-<html lang="{{ $.Site.Language.Lang }}">
-  {{ partial "head" . }}
-  <body class="sans-serif">
+<html lang="{{- $.Page.Params.lang | default "id" -}}">
 
+<head>
+    <title>{{ .Title }} | {{ $.Site.Title }}</title>
+
+    {{ block "head" . }}
+    {{ end }}
+
+    {{ $stylesheet := .Site.Data.webpack.main }}
+    {{ with $stylesheet.css }}
+    <link href="{{ relURL . }}" rel="stylesheet">
+    {{ end }}
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap" rel="stylesheet">
+
+    {{ if .IsHome }}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {{ end }}
+</head>
+
+<body class="sans-serif">
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
-
     {{ block "main" . }}{{ end }}
-
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
+    <script src="{{ relURL . }}"></script>
     {{ end }}
-  </body>
+</body>
+
 </html>

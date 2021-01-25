@@ -1,20 +1,28 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Explore new perspectives of investment"
+description: "Setiap rencana keuangan yang hebat dimulai dengan anggaran yang baik, informasi investasi terbaru seputar pasar saham reksadana - PasarDigital"
+author: "Naya A"
+date: "2021-01-23T13:00:00+09:00"
+thumbnail: "/img/default.png"
+subtitle: Support sustainable Investing while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Budget Planner?
+    text: >
+        Your detailed spending breakdown,
+        Our free Budget Planner puts you in control of your household spending and analyses your results to help you take control of your money. It’s already helped hundreds of thousands of people.
+
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Mewujudkan rencana anggaran yang solid."
+    text: "Setiap rencana keuangan yang hebat dimulai dengan anggaran yang baik. Jika Anda mencoba melunasi tagihan atau menabung untuk impian liburan ke hawai?, anggaran adalah langkah pertama Anda untuk mewujudkan tujuan finansial Anda. Ikuti langkah-langkah berikut untuk menyiapkan anggaran yang realistis."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Mulailah dengan berapa banyak uang yang Anda hasilkan setelah pajak setiap bulan. Jika kompensasi Anda bervariasi, menggunakan rata-rata tidak masalah, tetapi semakin akurat semakin baik. Jangan lupakan sumber pendapatan lain seperti tunjangan, seperti tunjangan anak, bunga, dividen dan pendapatan sewa. Sekarang setelah Anda mengetahui penghasilan Anda, Anda dapat meninjau di mana Anda sekarang."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Jika pengeluaran Anda sudah lebih besar dari tabungan Anda, Anda memiliki 2 pilihan. Dapatkan lebih banyak uang, atau belanjakan lebih sedikit. Umumnya lebih mudah untuk mengurangi pengeluaran dibandingkan menghasilkan lebih banyak uang. Lihat kembali anggaran Anda dan tentukan apa yang dapat dikurangi. Makan lebih sedikit? Tanpa pakaian baru? Jika Anda menabung lebih dari yang di belanjakan, itu bagus."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Our futures
+    text: "Sebuah permainan untuk membayangkan cara-cara baru untuk melibatkan orang-orang dalam memikirkan masa depan. Jadilah pemain (individu atau tim) bersaing untuk merancang skenario untuk jenis baru kegiatan masa depan partisipatif yang menggabungkan teknologi yang muncul dan fokus pada mengatasi tantangan abad ke-21. (Sandyartha & Pasar Digital teams)"
+    
 ---
 

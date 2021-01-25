@@ -1,0 +1,35 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta itemprop="name" content="{{ .Title }} - {{ .Site.Title }}">
+<meta name="description" content="{{ replaceRE "\n" "" (.Description | default .Summary | truncate 155) }}" />
+<meta name="news_keywords" content="{{ replaceRE "\n" "" ( .Summary | truncate 55) }}" />
+<meta name="original-source" content="{{ with .OutputFormats.Get "HTML" }}{{ .Permalink }}{{ end }}" />
+
+
+<!-- Open Graph -->
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ with .OutputFormats.Get "HTML" }}{{ .Permalink }}{{ end }}">
+<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
+<meta property="og:image" content="{{ .Params.thumbnail | default "/default.png" | absURL }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:description" content="{{ replaceRE "\n" "" (.Description | default .Summary | truncate 155) }}" />
+<meta property="og:locale" content="{{- $.Page.Params.lang | default "id" -}}">
+
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="{{ with .Site.Params.twitter }}{{ . }}{{end}}" />
+<meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}" />
+<meta name="twitter:description" content="{{ replaceRE "\n" "" (.Description | default .Summary | truncate 155) }}" />
+<meta name="twitter:image" content="{{ .Params.thumbnail | default "/default.png" | absURL }}" />
+
+
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
+<meta name="theme-color" content="#fff">
